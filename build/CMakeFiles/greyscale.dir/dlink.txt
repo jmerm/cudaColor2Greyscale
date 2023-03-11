@@ -1,0 +1,1 @@
+/usr/local/cuda/bin/nvcc   -g -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/greyscale.dir/greyscale.cu.o -o CMakeFiles/greyscale.dir/cmake_device_link.o 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/merm/Desktop/cudaColor2Greyscale/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -o CMakeFiles/out.dir/main.cpp.o -c /home/merm/Desktop/cudaColor2Greyscale/main.cpp",
+  "file": "/home/merm/Desktop/cudaColor2Greyscale/main.cpp"
+},
+{
+  "directory": "/home/merm/Desktop/cudaColor2Greyscale/build",
+  "command": "/usr/local/cuda/bin/nvcc  -Dgreyscale_EXPORTS  -g -Xcompiler=-fPIC   -x cu -c /home/merm/Desktop/cudaColor2Greyscale/greyscale.cu -o CMakeFiles/greyscale.dir/greyscale.cu.o",
+  "file": "/home/merm/Desktop/cudaColor2Greyscale/greyscale.cu"
+}
+]

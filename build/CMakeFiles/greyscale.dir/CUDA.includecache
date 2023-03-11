@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/merm/Desktop/cudaColor2Greyscale/greyscale.cu
+greyscale.h
+/home/merm/Desktop/cudaColor2Greyscale/greyscale.h
+
+/home/merm/Desktop/cudaColor2Greyscale/greyscale.h
+

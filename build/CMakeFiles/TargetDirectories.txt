@@ -1,0 +1,4 @@
+/home/merm/Desktop/cudaColor2Greyscale/build/CMakeFiles/rebuild_cache.dir
+/home/merm/Desktop/cudaColor2Greyscale/build/CMakeFiles/edit_cache.dir
+/home/merm/Desktop/cudaColor2Greyscale/build/CMakeFiles/out.dir
+/home/merm/Desktop/cudaColor2Greyscale/build/CMakeFiles/greyscale.dir

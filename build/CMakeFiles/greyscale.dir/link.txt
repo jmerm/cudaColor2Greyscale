@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC  -shared -Wl,-soname,libgreyscale.so -o libgreyscale.so CMakeFiles/greyscale.dir/greyscale.cu.o CMakeFiles/greyscale.dir/cmake_device_link.o  -L"/usr/local/cuda/targets/aarch64-linux/lib/stubs" -L"/usr/local/cuda/targets/aarch64-linux/lib" -lcudadevrt -lcudart_static -lrt -lpthread -ldl
